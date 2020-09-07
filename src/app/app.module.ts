@@ -12,7 +12,6 @@ import { BeerComponent } from './beer/beer.component';
 @NgModule({
   declarations: [
     AppComponent,
-    BeerComponent,
     BeerComponent
   ],
   imports: [
